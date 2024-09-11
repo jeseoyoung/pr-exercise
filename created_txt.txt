@@ -1,0 +1,1 @@
+해당 파일은 Mac 환경에서 제작되었으며 pull request를 통해 repository에 등록됨.
